@@ -1,0 +1,17 @@
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\bin\Debug\GestionBibiothèque.exe.config
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\bin\Debug\GestionBibiothèque.exe
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\bin\Debug\GestionBibiothèque.pdb
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.Form1.resources
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.LoginForm.resources
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.Properties.Resources.resources
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.csproj.GenerateResource.Cache
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.exe
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.pdb
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.AccueilForm.resources
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.EtudiantForm.resources
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.Bibliothecaire.resources
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.EmpruntLivre.resources
+C:\Users\BSM\documents\visual studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.Livre.resources
+C:\Users\BSM\Documents\Visual Studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.csprojResolveAssemblyReference.cache
+C:\Users\BSM\Documents\Visual Studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\BSM\Documents\Visual Studio 2015\Projects\GestionBibiothèque\GestionBibiothèque\obj\Debug\GestionBibiothèque.RetourLivre.resources
